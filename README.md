@@ -1,7 +1,9 @@
 # TechOS
 The TechOS Operating System (written in C)
-**DISCLAMER** A major part of this OS is a jumble of source code. I don't remember all the original sources but I do remember some.
+## DISCLAMER
+A major part of this OS is a jumble of source code. I don't remember all the original sources but I do remember some.
 
+## CREDITS
 KEYBOARD, TERMINAL: https://lucuslabs.com/my_cool_os
 
 FUSE (unused because i am stupid and thought i could use FUSE in my OS): https://github.com/libfuse/libfuse
