@@ -1,5 +1,5 @@
 # TechOS
-The TechOS Operating System (written in C)
+The TechOS Operating System (written in C). I plan to rewrite this OS soon with new functionality.
 ## DISCLAMER
 A major part of this OS is a jumble of source code. I don't remember all the original sources but I do remember some.
 
